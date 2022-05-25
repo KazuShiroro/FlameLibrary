@@ -9,20 +9,20 @@ namespace MatchLab.Game
 {
     public class GameStateBase : SingletonMonoBehaviour<GameStateBase>
     {
-        protected Subject<string> pauseSbject = new Subject<string>();
+        protected Subject<bool> pauseSbject = new Subject<bool>();
 
-        protected Subject<string> resumuSbject = new Subject<string>();
+        protected Subject<bool> resumuSbject = new Subject<bool>();
 
         protected bool isPausing = false;
 
         public bool IsPausing() { return isPausing; }
 
-        public IObservable<string> OnPaused
+        public IObservable<bool> OnPaused
         {
             get { return pauseSbject; }
         }
 
-        public IObservable<string> OnResumed
+        public IObservable<bool> OnResumed
         {
             get { return resumuSbject; }
         }
@@ -31,14 +31,14 @@ namespace MatchLab.Game
         {
             isPausing = true;
 
-            pauseSbject.OnNext("Pause");
+            pauseSbject.OnNext(isPausing);
         }
 
         public void Resume()
         {
             isPausing = false;
 
-            resumuSbject.OnNext("Resume");
+            resumuSbject.OnNext(isPausing);
         }
     }
 }
