@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: c1c1573428820834d8f852ded808bc90
+  m_SerializeEntries:
+  - m_GUID: 7bb448f8783564f468ee1c2a3f110a68
+    m_Address: Character-Test
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 13822fb40c077ef49a92e9a94cac0097
+    m_Address: TestSceneNavigator
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e7eff29c25512be4980400044dd95f50
+    m_Address: IsQuitModal
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 239d9effdffcbc44cb0522192fca00d7
+    m_Address: TitlePage
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 89049507eda98e845950ea89c7eed308
+    m_Address: StageSelect
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 30adeb161ef3e11478626c1b773ceb71
+    m_Address: SEManager
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d6342205d60506343bf4ea5d7fcd888f
+    m_Address: BGMManager
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b2df74022af3d624e833038c0469d22f
+    m_Address: SimpleAudioMixer
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b116c6237d7a62a44a2434396ec9e94d
+    m_Address: SimpleAudioSettings
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: a16fc1aebacedca4bb07d8091e36ec49, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 1b1926c5d512a5949a3f9c290ad061d4, type: 2}
+    - {fileID: 11400000, guid: 2f222bb910f828549b4776b3908b59b2, type: 2}

@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Audio
+  m_EditorClassIdentifier: 
+  m_GroupName: Audio
+  m_Data:
+    m_SerializedData: []
+  m_GUID: db5464815a6e4c84593b728b854039df
+  m_SerializeEntries:
+  - m_GUID: 8b416bda97c8ea044880a82da32b47b1
+    m_Address: se_onepoint_01
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - SE
+  - m_GUID: d2d28efdf830b3a4d91a91bac6e22a9d
+    m_Address: se_ok_02
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - SE
+  - m_GUID: 9fe31f7107241dd4cabb6dd34f13380c
+    m_Address: se_ok_01
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - SE
+  - m_GUID: 86baf4825580ffe47a532c13b0c3484c
+    m_Address: se_cancel_01
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - SE
+  - m_GUID: 2797abcc0d637924290f29049468fce9
+    m_Address: bgm_cyber_17
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - BGM
+  - m_GUID: 80e922e72b2f520419b157e9f6f16d03
+    m_Address: bgm_cyber_31
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - BGM
+  - m_GUID: 7def4bafbae607f43bf7109e3ddd3a00
+    m_Address: bgm_cyber_33
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - BGM
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: a16fc1aebacedca4bb07d8091e36ec49, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 5410bf26bdc36fe43929f3491ae5ea4b, type: 2}
+    - {fileID: 11400000, guid: ea104fa144da2a0419a0a33cd46d16a2, type: 2}
