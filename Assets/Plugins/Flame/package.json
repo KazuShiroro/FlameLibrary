@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "displayName": "Flame Library",
   "description": "Library for FLAMAE, it actually general purpose library.",
-  "unity": "2019.4",
+  "unity": "2021.3",
   "keywords": [
     "Flame",
     "MatchLab",
