@@ -1,0 +1,19 @@
+{
+    "name": "Flame.Audio",
+    "references": [
+        "GUID:62c2223e388335f4e9f25452c5292b57",
+        "GUID:dc66bf77b4273664f90984bfeb823bb3",
+        "GUID:9e24947de15b9834991c9d8411ea37cf",
+        "GUID:84651a3751eca9349aac36a66bba901b",
+        "GUID:560b04d1a97f54a4e82edc0cbbb69285"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

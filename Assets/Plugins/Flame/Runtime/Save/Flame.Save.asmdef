@@ -1,0 +1,15 @@
+{
+    "name": "Flame.Save",
+    "references": [
+        "GUID:62c2223e388335f4e9f25452c5292b57"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
