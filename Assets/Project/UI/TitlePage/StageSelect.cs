@@ -2,8 +2,8 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
-using MatchLab.UI;
-using MatchLab.UI.Modal;
+using Flame.UI;
+using Flame.UI.Modal;
 using Ex.Unity2019.UI;
 
 namespace Ex.Unity2019

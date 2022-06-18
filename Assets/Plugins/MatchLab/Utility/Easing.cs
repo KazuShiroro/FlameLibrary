@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace MatchLab.Utility
+namespace Flame.Utility
 {
     public enum EaseType
     {

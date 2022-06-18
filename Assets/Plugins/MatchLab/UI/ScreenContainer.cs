@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
-namespace MatchLab.UI
+namespace Flame.UI
 {
     public abstract class  ScreenContainer : MonoBehaviour
     {

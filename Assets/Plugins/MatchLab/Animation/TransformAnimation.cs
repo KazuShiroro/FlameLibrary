@@ -1,9 +1,9 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using MatchLab.Utility;
+using Flame.Utility;
 
-namespace MatchLab.Animation
+namespace Flame.Animation
 {
     [CreateAssetMenu(menuName = ("MatchLabLib/Animation/TransformAnimation"))]
     public class TransformAnimation : ScriptableObject

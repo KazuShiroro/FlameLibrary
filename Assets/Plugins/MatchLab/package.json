@@ -1,0 +1,16 @@
+{
+  "name": "com.flame.library",
+  "version": "0.0.1",
+  "displayName": "Flame Library",
+  "description": "Library for FLAMAE, it actually general purpose library.",
+  "unity": "2019.4",
+  "keywords": [
+    "Flame",
+    "MatchLab",
+    "Kazuhiroro"
+  ],
+  "author": {
+    "name": "Kazushiroro",
+    "url": "https://github.com/KazuShiroro"
+  }
+}

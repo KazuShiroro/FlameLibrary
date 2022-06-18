@@ -7,7 +7,7 @@ using UnityEngine.Audio;
 using UniRx;
 using UniRx.Triggers;
 
-namespace MatchLab.Audio
+namespace Flame.Audio
 {
     [CreateAssetMenu(menuName = "MatchLabLib/Audio/AudioSettings")]
     public class AudioSettings : ScriptableObject

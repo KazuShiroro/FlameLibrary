@@ -2,9 +2,9 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using MatchLab.Animation;
+using Flame.Animation;
 
-namespace MatchLab.UI
+namespace Flame.UI
 {
     [Serializable]
     public class ScreenInfo

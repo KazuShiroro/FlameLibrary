@@ -7,7 +7,7 @@ using UnityEngine.UI;
 using UnityEngine.AddressableAssets;
 using Cysharp.Threading.Tasks;
 
-namespace MatchLab.UI.Page
+namespace Flame.UI.Page
 {
     public class PageContainer : MonoBehaviour
     {

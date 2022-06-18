@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UniRx;
 using System;
-using MatchLab.UniRx;
+using Flame.UniRx;
 
 namespace Project.Character
 {

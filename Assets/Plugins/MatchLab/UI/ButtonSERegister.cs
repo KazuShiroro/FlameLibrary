@@ -3,9 +3,9 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.AddressableAssets;
-using MatchLab.Audio.SE;
+using Flame.Audio.SE;
 
-namespace MatchLab.UI
+namespace Flame.UI
 {
     public class ButtonSERegister : MonoBehaviour
     {

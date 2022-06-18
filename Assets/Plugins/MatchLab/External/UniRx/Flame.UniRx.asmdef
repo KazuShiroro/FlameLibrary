@@ -1,8 +1,7 @@
 {
-    "name": "MatchLab.Game",
+    "name": "Flame.UniRx",
     "references": [
         "GUID:62c2223e388335f4e9f25452c5292b57",
-        "GUID:dc66bf77b4273664f90984bfeb823bb3",
         "GUID:560b04d1a97f54a4e82edc0cbbb69285"
     ],
     "includePlatforms": [],

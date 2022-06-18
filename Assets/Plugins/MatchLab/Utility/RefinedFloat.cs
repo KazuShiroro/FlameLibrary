@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Events;
 
-namespace MatchLab.Utility
+namespace Flame.Utility
 {
     [CreateAssetMenu(menuName = "MatchLabLib/Utility/RefinedFloat")]
     public class RefinedFloat : ScriptableObject, ISerializationCallbackReceiver

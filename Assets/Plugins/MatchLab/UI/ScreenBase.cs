@@ -5,9 +5,9 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Events;
 using Cysharp.Threading.Tasks;
-using MatchLab.Animation;
+using Flame.Animation;
 
-namespace MatchLab.UI
+namespace Flame.UI
 {
     public class ScreenBase : MonoBehaviour
     {

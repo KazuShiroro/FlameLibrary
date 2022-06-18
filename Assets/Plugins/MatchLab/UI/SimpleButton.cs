@@ -3,9 +3,9 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.AddressableAssets;
 using UnityEngine.UI;
-using MatchLab.Audio.SE;
+using Flame.Audio.SE;
 
-namespace MatchLab.UI
+namespace Flame.UI
 {
     public class SimpleButton : Button
     {

@@ -6,7 +6,7 @@ using UnityEngine.AddressableAssets;
 using UnityEngine.UI;
 using Cysharp.Threading.Tasks;
 
-namespace MatchLab.UI.Modal
+namespace Flame.UI.Modal
 {
     public class ModalContainer : MonoBehaviour
     {

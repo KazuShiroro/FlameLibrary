@@ -2,11 +2,11 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.AddressableAssets;
-using MatchLab.Singleton;
+using Flame.Singleton;
 using UniRx;
 using UniRx.Triggers;
 
-namespace MatchLab.Audio.BGM
+namespace Flame.Audio.BGM
 {
     [RequireComponent(typeof(AudioSource))]
     public class BGMManager : SingletonMonoBehaviour<BGMManager>

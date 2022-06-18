@@ -1,7 +1,7 @@
 ﻿using System;
 using UniRx;
 
-namespace MatchLab.UniRx
+namespace Flame.UniRx
 {
     /// <summary>
     /// ラップされたAsyncSubject

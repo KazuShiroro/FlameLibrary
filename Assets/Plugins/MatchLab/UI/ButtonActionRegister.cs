@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
-namespace MatchLab.UI
+namespace Flame.UI
 {
     public class ButtonActionRegister 
     {

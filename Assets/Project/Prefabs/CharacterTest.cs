@@ -1,7 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using MatchLab.Utility;
+using Flame.Utility;
 
 public class CharacterTest : MonoBehaviour
 {

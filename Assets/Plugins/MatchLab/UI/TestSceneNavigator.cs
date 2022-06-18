@@ -6,7 +6,7 @@ using UnityEngine.SceneManagement;
 using UnityEngine.AddressableAssets;
 using Cysharp.Threading.Tasks;
 
-namespace MatchLab.UI
+namespace Flame.UI
 {
     public class TestSceneNavigator : MonoBehaviour
     {

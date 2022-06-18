@@ -2,10 +2,10 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using MatchLab.Singleton;
+using Flame.Singleton;
 using UniRx;
 
-namespace MatchLab.Game
+namespace Flame.Game
 {
     public class GameStateBase : SingletonMonoBehaviour<GameStateBase>
     {

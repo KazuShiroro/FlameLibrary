@@ -3,11 +3,11 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.AddressableAssets;
-using MatchLab.Singleton;
+using Flame.Singleton;
 using UniRx;
 using UniRx.Triggers;
 
-namespace MatchLab.Audio.SE
+namespace Flame.Audio.SE
 {
     [RequireComponent(typeof(AudioSource))]
     public class SEManager : SingletonMonoBehaviour<SEManager>

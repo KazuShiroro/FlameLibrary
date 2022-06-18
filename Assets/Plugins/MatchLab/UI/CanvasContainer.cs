@@ -3,7 +3,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace MatchLab.UI
+namespace Flame.UI
 {
     #region CanvasInfo
     [Serializable]

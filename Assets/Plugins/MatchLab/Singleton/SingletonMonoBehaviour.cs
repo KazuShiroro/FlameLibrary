@@ -4,7 +4,7 @@ using UnityEngine;
 using UnityEditor.AddressableAssets;
 using UnityEngine.AddressableAssets;
 
-namespace MatchLab.Singleton
+namespace Flame.Singleton
 {
     /// <summary>
     /// MonoBehaviourなシングルトンの基底クラス:AddressableAssets必須!!

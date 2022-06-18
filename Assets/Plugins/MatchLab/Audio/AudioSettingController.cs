@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.AddressableAssets;
 
-namespace MatchLab.Audio
+namespace Flame.Audio
 {
     public class AudioSettingController
     {

@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace MatchLab.UI
+namespace Flame.UI
 {
     public abstract class TestSceneBase : MonoBehaviour
     {
