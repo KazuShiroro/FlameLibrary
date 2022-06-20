@@ -1,9 +1,9 @@
 {
     "name": "Flame.Unity",
     "references": [
-        "GUID:dc66bf77b4273664f90984bfeb823bb3",
-        "GUID:84fc8d2337dce2f47b77d94c8a4f3fe6",
-        "GUID:560b04d1a97f54a4e82edc0cbbb69285"
+        "GUID:560b04d1a97f54a4e82edc0cbbb69285",
+        "GUID:2d0e2a52903d6974e9c60cec41135f64",
+        "GUID:e4d6985a1de314b4bac9017e68eeb577"
     ],
     "includePlatforms": [],
     "excludePlatforms": [],

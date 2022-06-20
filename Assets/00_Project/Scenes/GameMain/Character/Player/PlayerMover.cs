@@ -6,7 +6,6 @@ using UniRx;
 using UniRx.Triggers;
 using Project.Character.Input;
 using Project.Character.Player.Input;
-using Flame.Unity;
 
 namespace Project.Character
 {
